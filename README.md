@@ -1,6 +1,6 @@
 # API Logic Server samples
 
-[API Logic Server][100] provides Microservice Automation: create executable
+[API Logic Server][100] provides Microservice Automation to create executable
 projects with 1 command:
 
 1. API Automation: crud for each table, with pagination, optimistic locking, filtering and sorting, and
@@ -11,4 +11,4 @@ projects with 1 command:
 
 [100]: https://github.com/ApiLogicServer/ApiLogicServer-src
 
-This project has examples of using the API Logic Server.
+This project has examples using the API Logic Server.
